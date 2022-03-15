@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JorgeMano
 - 👀 I’m interested in electronic engineer and programming
-- 🌱 I’m currently learning JavaScript, HTML, CSS and React
+- 🌱 I’m currently learning JavaScript, HTML, CSS, React, Node.js and Sequelize.
 - 💞️ I’m looking to collaborate on a development project
 - 📫 How to reach me in my LinkedIn profile www.linkedin.com/in/jorge-luis-manosalva-fonseca-5ba97b184
 
